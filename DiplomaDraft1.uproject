@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "MounteaDialogueSystem",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ea38ae1f87b24807a66fdf4fa65ef521"
+		}
+	]
 }
